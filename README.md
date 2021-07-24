@@ -389,3 +389,7 @@ Torondel, B., Ensink, J. H., Gundogdu, O., Ijaz, U. Z., Parkhill, J., Abdelahi, 
 [DOI:10.1111/1751-7915.12334](https://pubmed.ncbi.nlm.nih.gov/26875588/)
 
 [R Code for Ecological Data Analysis](http://userweb.eng.gla.ac.uk/umer.ijaz/bioinformatics/ecological.html)
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
